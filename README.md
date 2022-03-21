@@ -1,9 +1,14 @@
 # bikesharing
 
+## Overview
+This week I had the chance to help Kate analyze data for a bike sharing company. We used jupyer Noteooks and Tableau to manipulate our data to form a strong analysis With investors interested we have the everything we need to back up why our company will be fantastic.
 
 
-# Results
+## Results
 [link to dashboard](https://public.tableau.com/app/profile/nalicia.tillman/viz/Book1BikeSharingData/Checkouttimes)
+
+There hundreds of thousands of customers and subscribers that enjoy citibike, so we know its a popular venture for city life. Knowing this we got to work figuing out what the data was telling us. 
+
 
 In the Tripduration visualization we see that the average bike renter has between a 10 and 20 minute ride. Evident by the spike seen in dark blue.
 
@@ -41,3 +46,6 @@ Lastly we have the trips by gender per weekday subscriber vs. customer visualiza
 Subscribers are more likely to book a ride on (Friday's ugly sister) Thursdays. There seems to be no nongendered or unknown subscribers. For customers, very few there are, the data tells us Saturdays are the best days for them to give CitiBike a try. 
 
 <img width="345" alt="Screen Shot 2022-03-19 at 10 27 32 PM" src="https://user-images.githubusercontent.com/94723290/159200548-0f52278b-4b9e-48f8-a9a6-1c2bcc333de6.png">
+
+## Summary
+
